@@ -3,6 +3,9 @@
 # Ultimate DevSecOps library
 https://github.com/sottlmarek/DevSecOps#oss-and-dependency-management
 
+# Terraform with Azure partnership
+https://github.com/quantum-fusion/terraform/
+
 # List of resources worth investigating:
 
 https://dodcio.defense.gov/Portals/0/Documents/DoD%20Enterprise%20DevSecOps%20Reference%20Design%20v1.0_Public%20Release.pdf
