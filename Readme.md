@@ -1,5 +1,7 @@
 # Methodologies, whitepapers and architecture
 
+![stack Overflow](http://lmsotfy.com/so.png)
+
 # Observability Performance Dashboard tools
 https://github.com/quantum-fusion/DevOps-Dashboards
 
