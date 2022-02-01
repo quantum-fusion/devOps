@@ -1,4 +1,4 @@
-# DevOPs Methodologies, whitepapers and architecture
+# DevSecOps - Methodologies, whitepapers and architecture
 
 # General Zod 
 ![General Zod](https://static.wikia.nocookie.net/dcmovies/images/e/ee/GeneralZod.jpg/revision/latest/scale-to-width-down/363?cb=20081204192221)
