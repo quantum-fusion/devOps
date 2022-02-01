@@ -1,6 +1,6 @@
 # Methodologies, whitepapers and architecture
 
-![stack Overflow](http://lmsotfy.com/so.png)
+![General Zod](https://static.wikia.nocookie.net/dcmovies/images/e/ee/GeneralZod.jpg/revision/latest/scale-to-width-down/363?cb=20081204192221)
 
 # Observability Performance Dashboard tools
 https://github.com/quantum-fusion/DevOps-Dashboards
